@@ -1,0 +1,57 @@
+body
+{
+   background-color:rgb(255, 155, 217);
+}
+
+.heading
+{
+  width:70%;
+  font-size:20;
+  letter-spacing:8px;
+  border-radius:15px;
+  font-family:cursive;
+}
+span 
+{
+  font-size:20px;   
+}
+#camera , #result
+{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+} 
+span
+{
+ font-size:30px;
+}
+
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+label
+{
+   font-size:15px;
+   color:green;
+   padding:7px;
+   border-radius:10px;
+   background-color:white;
+}
+
+p 
+{  
+  font-size:20px;
+  color:white;
+}
+
+button 
+{
+  width:70%;
+  border-radius:20px;
+}
